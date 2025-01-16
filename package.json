@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.26.0",
     "@chakra-ui/icons": "^2.2.4",
     "@chakra-ui/react": "^2.10.3",
     "@emotion/react": "^11.13.3",
@@ -67,7 +68,7 @@
   "devDependencies": {
     "tailwindcss": "^3.2.2",
     "terser-webpack-plugin": "^5.3.10",
-    "webpack": "^5.95.0",
+    "webpack": "^5.97.1",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^5.1.0"
   },
