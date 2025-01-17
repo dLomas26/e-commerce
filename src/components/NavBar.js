@@ -1,6 +1,6 @@
 import React from 'react'
 import "../styles/Navbar.css";
-import logo from "../assets/cara.png";
+import logo from "../assets/kimberly-removebg.png";
 import { useState } from 'react';
 import BestSellers from './BestSellers';
 import GiftSets from './GiftSets';
